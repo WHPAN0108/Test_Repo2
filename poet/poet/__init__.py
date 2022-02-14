@@ -1,2 +1,2 @@
-from Hello import hello
+import poet.Hello as PH
 __version__ = '0.1.0'
