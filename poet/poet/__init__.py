@@ -1,2 +1,2 @@
-from .Hello import hello
+import Hello
 __version__ = '0.1.0'
