@@ -7,6 +7,6 @@ setup(name='modulea',
       # author='Flying Circus',
       # author_email='flyingcircus@example.com',
       # license='MIT',
-      packages=['Toolbox/modulea'],
+      packages=['Toolbox/modulea/'],
       # zip_safe=False
 )
