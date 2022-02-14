@@ -7,6 +7,6 @@ setup(name='ModuleA',
       # author='Flying Circus',
       # author_email='flyingcircus@example.com',
       # license='MIT',
-      packages=['ModuleA'],
+      packages=['Toolbox/ModuleA'],
       # zip_safe=False
 )
