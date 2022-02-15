@@ -10,7 +10,7 @@ packages = [
 [tool.poetry.dependencies]
 python = "^3.8"
 requests = "^2.27.1"
-"TGtoolbox.goodbye" = {path = "../TGtoolbox.goodbye"}
+"TGtoolbox.goodbye" = {path = "./TGtoolbox.goodbye"}
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
