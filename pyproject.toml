@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "tgtoolbox"
+name = "MolDesToolBox."
 version = "0.1.0"
 description = ""
 authors = ["WEI <w.pan@silence-theraptic.com>"]
