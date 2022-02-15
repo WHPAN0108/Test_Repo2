@@ -1,10 +1,10 @@
 [tool.poetry]
-name = "tgtoolbox.poet"
+name = "tgtoolbox"
 version = "0.1.0"
 description = ""
 authors = ["WEI <w.pan@silence-theraptic.com>"]
 packages = [
-    { include = "tgtoolbox" },
+    { include = "poet" },
     { include = "tgtoolbox/**/*.py" },
 ]
 
