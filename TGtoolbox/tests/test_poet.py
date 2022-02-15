@@ -1,4 +1,4 @@
-from poet import __version__
+from TGtoolbox import __version__
 
 
 def test_version():
