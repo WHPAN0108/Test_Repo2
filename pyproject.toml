@@ -4,8 +4,7 @@ version = "0.1.0"
 description = ""
 authors = ["WEI <w.pan@silence-theraptic.com>"]
 packages = [
-    { include = "poet" },
-    { include = "tgtoolbox/**/*.py" },
+    { include = "poet", from = "TGtoolbox" }
 ]
 
 [tool.poetry.dependencies]
