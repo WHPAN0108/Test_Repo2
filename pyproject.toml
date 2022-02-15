@@ -1,16 +1,16 @@
 [tool.poetry]
-name = "MolDesToolBox2"
+name = "MolDesToolBox"
 version = "0.1.0"
 description = ""
 authors = ["WEI <w.pan@silence-theraptic.com>"]
 packages = [
-    { include = "MolDesToolBox/goodbye", from = "TGtoolbox.goodbye" }
+    { include = "MolDesToolBox/goodbye", from = "TGtoolbox" }
 ]
 
 [tool.poetry.dependencies]
 python = "^3.8"
 requests = "^2.27.1"
-"TGtoolbox.goodbye" = {path = "./TGtoolbox.goodbye/MolDesToolBox"}
+
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
