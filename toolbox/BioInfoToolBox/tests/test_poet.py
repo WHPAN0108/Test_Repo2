@@ -1,4 +1,4 @@
-from TGtoolbox import __version__
+from toolbox import __version__
 
 
 def test_version():
