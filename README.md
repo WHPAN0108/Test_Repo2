@@ -1,5 +1,8 @@
 # Toolbox_subpackage2
-This is the repo as the subpackage within a Internal Toolbox.
+The whole plan to have a internal package named **MolDesToolBox** and create different subpackage within the framwork    
+This is a simple repo ashowing the right folder structure and setting in the `project.toml` 
+
+[Toolbox_subpackage1](https://github.com/WHPAN0108/Toolbox_subpackage1) is another repo in the **MolDesToolBox**
 
 ## Install
 
