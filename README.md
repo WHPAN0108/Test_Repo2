@@ -21,7 +21,7 @@ pip install git+https://github.com/WHPAN0108/Toolbox_subpackage2
 
 You can try in the python console
 ```python
->>> from MolDesToolBox.goodbye import Goodbye
+>>> from BioInfoToolBox.goodbye import Goodbye
 >>> Goodbye.goodbye()
 Goodbye World
 ```
