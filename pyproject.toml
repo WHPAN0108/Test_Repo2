@@ -2,7 +2,7 @@
 name = "Toolbox_goodbye"
 version = "0.1.0"
 description = ""
-authors = ["WEI <w.pan@silence-theraptic.com>"]
+authors = ["WEI <n124080@gmail.com>"]
 packages = [
     { include = "BioInfoToolBox/goodbye", from = "toolbox" }
 ]
